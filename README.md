@@ -3,6 +3,6 @@
 ## Intro
 blah blah why is it important
 
-## Link to Decimal to Binary
+## **[Decimal to Binary]()**
 
-## Link to Binary to Decimal
+## **[Binary to Decimal]()**
