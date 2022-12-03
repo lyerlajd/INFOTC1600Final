@@ -76,3 +76,4 @@ We're going to skip a few more places since our remainder is only 1, and select 
 
 Thus we are left with a final binary number of
 
+1 1 1 0 1 0 0 1
