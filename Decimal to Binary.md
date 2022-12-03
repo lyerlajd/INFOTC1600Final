@@ -16,7 +16,7 @@ Convert decimal value 7 to binary.
 4 is the closest value to 7 without going over
 
 > 128 64 32 16 8 4 2 1  
-> &nbsp;0&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;0&nbsp;&nbsp;0 0 1 0 0
+> &nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;0&nbsp;&nbsp;0 0 1 0 0
 
 7 - 4 = 3
  
