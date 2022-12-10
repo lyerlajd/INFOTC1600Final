@@ -2,10 +2,14 @@
 
 ## Intro
 
-## Base 10 vs Base 2
+Converting from decimal numbers to binary isn't too difficult if you follow just a few simple steps.
 
 ## How it works
-When converting from base 10 to base 2, you can *"subtract"* values from the decimal value decimal place by decimal place until arriving at a final answer.
+When converting from base 10 to base 2, you can *"subtract"* values, from the decimal value, digit by digit until arriving at a final answer.
+
+1. Check if the decimal value is bigger or smaller than the what the binary digit is worth in decimal
+2. If the decimal value is bigger, put a 1 in the binary digit and subtract the value it is worth in decimal from the decimal value. If the decimal value is smaller, leave the binary digit as a 0 and check the next digit.
+3. Repeat until the decimal value is 0 and what you are left with is the binary equivalent.
 
 ## Examples
 
