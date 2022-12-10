@@ -23,7 +23,7 @@ Convert binary value 0000 0111 to decimal.
 
 Convert binary value 1110 1001 to decimal.
 
-> &nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;0 0 0 0
+> &nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;0 0 0 0  
 > 128 64 32 16 8 4 2 1  
 > 128&nbsp;&nbsp;&nbsp;64&nbsp;&nbsp;32&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;8 0 0 1
 
