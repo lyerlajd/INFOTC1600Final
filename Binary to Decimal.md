@@ -13,8 +13,8 @@ When converting from base 10 to base 2, you are simply adding the value of each 
 
 Convert binary value 0000 0111 to decimal.
 
-> &nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;0 1 1 1
-> 128 64 32 16 8 4 2 1  
+> &nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;0 1 1 1  
+> 128 64 32 16 8 4 2 1   
 > &nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;0 4 2 1
 
 0 + 0 + 0 + 0 + 0 + 4 + 2 + 1 = 7
