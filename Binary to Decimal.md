@@ -25,6 +25,6 @@ Convert binary value 1110 1001 to decimal.
 
 > &nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;0 0 0 0  
 > 128 64 32 16 8 4 2 1  
-> 128&nbsp;64&nbsp;32&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;8 0 0 1
+> 128&nbsp;64&nbsp;32&nbsp;&nbsp;&nbsp;0&nbsp;8 0 0 1
 
 128 + 64 + 32 + 0 + 8 + 0 + 0 + 1 = 233
